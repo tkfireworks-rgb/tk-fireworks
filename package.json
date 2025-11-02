@@ -1,0 +1,15 @@
+{
+  "name": "tk-fireworks",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fontsource/comic-neue": "^5.2.7",
+    "gsap": "^3.13.0",
+    "i18next": "^25.6.0",
+    "react-i18next": "^16.2.3",
+    "react-router-dom": "^7.9.5"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
